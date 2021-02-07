@@ -5,5 +5,4 @@ COPYING DATA FROM DEPT TABLE. Dept and Dept1 tables structure same
 user supplied DEPTNO.
 
 add  number 3
-
-where is 3
+delete 3
