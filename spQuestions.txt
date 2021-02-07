@@ -4,4 +4,4 @@ COPYING DATA FROM DEPT TABLE. Dept and Dept1 tables structure same
 2.Write a procedure to select the data from EMP table based on
 user supplied DEPTNO.
 
-3.Write a procedure to select the data from EMP table. 
+
