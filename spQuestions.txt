@@ -6,3 +6,4 @@ user supplied DEPTNO.
 
 add  number 3
 
+where is 3
